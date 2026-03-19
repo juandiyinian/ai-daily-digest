@@ -1,4 +1,5 @@
 #!/bin/bash
+export TAVILY_API_KEY=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
 set -e
 
 # 1. 生成日期变量
